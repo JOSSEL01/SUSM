@@ -1,0 +1,21 @@
+.calculos {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    margin: 5px;
+    border: 2px outset red;
+    border-radius: 30px;
+    padding: 15px 40px;
+    text-align: center;
+    font-weight: 700;
+  }
+  h1 {
+    text-align: center;
+    color: brown;
+  }
+  .centrar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
